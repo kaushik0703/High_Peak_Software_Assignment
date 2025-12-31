@@ -57,15 +57,6 @@ You can configure the test environment in `src/test/resources/config.properties`
 3.  **Cross-Browser Setup**: Ensuring the `config.properties` could seamlessly switch between Chrome and Firefox while maintaining consistent wait times and window behavior.
 4.  **Error Handling**: Implementing robust exception handling in `BaseTest` to ensure the driver is always closed propery, even if the test crashes or environment fails.
 
-## 📝 Manual Testing Reports
-
-The manual test cases and bug reports can be found in the following file:
-- [Manual_Testing_Reports.md](file:///c:/Users/kaush/Desktop/QA_Assesment/OrangeHRMAutomation/Manual_Testing_Reports.md)
-
-This includes:
-- **15 Detailed Test Cases** covering Login and Forgot Password.
-- **3 Bug Reports** with severity/priority analysis.
-
 ## 🏃 How to Run Tests
 
 ### Run from Command Line
